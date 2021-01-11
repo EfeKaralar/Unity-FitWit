@@ -6,7 +6,7 @@ public class SourceCode : MonoBehaviour
 {
     public void GoToSourceCode()
     {
-        string url = "https://github.com/EfeKaralar"; //CHANGE THIS LATER, THIS LINK IS FOR THE PROFILE NOW!
+        string url = "https://github.com/EfeKaralar/Unity-FitWit";
         Application.OpenURL(url);
     }
 }
